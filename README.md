@@ -34,5 +34,4 @@ Bank-Account-Management-System/
 └── README.md
 ```
 
-## Notes
-This is an educational console project. Accounts are kept in memory and are not saved after the program exits. It is not connected to a real bank and should not be used for real financial transactions.
+
